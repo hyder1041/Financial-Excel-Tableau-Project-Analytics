@@ -1,4 +1,4 @@
-# Business Analytics Project - Financial Performance Analysis
+# Financial Performance Analysis
 
 [![Language](https://img.shields.io/badge/Language-Python-blue.svg)](https://python.org/)
 [![Tool](https://img.shields.io/badge/Tool-Excel-green.svg)](https://www.microsoft.com/en-us/microsoft-365/excel)
